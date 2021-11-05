@@ -18,8 +18,8 @@ void equation(double a, double b)
 int main()
 {
     double a, b; 
-    a = 0;
-    b = 0;
+    a = 3;
+    b = 10;
      
     
         cout << "Линейное уравнение: a * x + b = 0" << endl; 
